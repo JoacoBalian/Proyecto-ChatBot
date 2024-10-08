@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\Proyecto-Chatbot\\Proyecto-ChatBot\\Proyecto-ChatBot.csproj": {}
+    "C:\\Repositorios\\Proyecto-Chatbot\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\Proyecto-Chatbot\\Proyecto-ChatBot\\Proyecto-ChatBot.csproj": {
+    "C:\\Repositorios\\Proyecto-Chatbot\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\Proyecto-Chatbot\\Proyecto-ChatBot\\Proyecto-ChatBot.csproj",
-        "projectName": "Proyecto-ChatBot",
-        "projectPath": "C:\\Repositorios\\Proyecto-Chatbot\\Proyecto-ChatBot\\Proyecto-ChatBot.csproj",
+        "projectUniqueName": "C:\\Repositorios\\Proyecto-Chatbot\\Program\\Program.csproj",
+        "projectName": "Program",
+        "projectPath": "C:\\Repositorios\\Proyecto-Chatbot\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\Estudiante UCU\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\Proyecto-Chatbot\\Proyecto-ChatBot\\obj\\",
+        "outputPath": "C:\\Repositorios\\Proyecto-Chatbot\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\NuGet\\NuGet.Config"

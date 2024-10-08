@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto-ChatBot")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7d09106307b7c6c41f5d6632967c3595c8e0e4")]
-[assembly: System.Reflection.AssemblyProductAttribute("Proyecto-ChatBot")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Proyecto-ChatBot")]
+[assembly: System.Reflection.AssemblyProductAttribute("Library")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
