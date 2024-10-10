@@ -4,13 +4,11 @@ namespace Library
     {
         public string Nombre { get; set; }              
         public List<Pokemon> Equipo { get; set; }      
-        public List<Pokemon> PokemonConocidos { get; set; } 
 
         public Entrenador(string nombre)
         {
             Nombre = nombre;
-            Equipo = new List<Pokemon>();               
-            PokemonConocidos = new List<Pokemon>();     
+            Equipo = new List<Pokemon>();              
         }
 
         public int Atacar(IPokemon objetivo, IAtaque ataque)
