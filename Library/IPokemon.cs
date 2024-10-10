@@ -9,6 +9,6 @@ public interface IPokemon
         List<IAtaque> AtaquesEspeciales { get; set; }   // Lista de ataques especiales
 
         void RecibirDaño(int daño);      // Método para recibir daño y reducir salud
-        int Atacar(IPokemon objetivo, IAtaque ataque);  // Método para atacar a otro Pokémon
+     
         int MostrarSalud(); // Método para mostrar salud de un Pokémon
 }

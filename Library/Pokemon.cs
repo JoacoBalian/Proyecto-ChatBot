@@ -23,10 +23,6 @@ public class Pokemon : IPokemon
       
     }
 
-    public int Atacar(IPokemon objetivo, IAtaque ataque)
-    {
-        return 0 ;
-    }
 
     public int MostrarSalud()
     {
