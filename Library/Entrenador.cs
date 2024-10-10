@@ -23,10 +23,12 @@ namespace Library
 
         public void CambiarPokemonDelEquipo(Pokemon pokemon)
         {
+            
         }
 
         public void MostrarEquipo()
         {
+            
         }
     }
 }
