@@ -28,4 +28,9 @@ public class Pokemon : IPokemon
     {
         return 0;
     }
+    
+    public string ConocerAtaques()
+    {
+        return null;
+    }
 }
