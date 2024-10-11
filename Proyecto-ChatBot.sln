@@ -7,6 +7,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{3956E7EA-4930-4E45-9A74-576391B62BB0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{1D3AE3A5-25AB-406B-8F9C-C16F8FACB79E}"
+	ProjectSection(SolutionItems) = preProject
+		Tarjetas CRC.png = Tarjetas CRC.png
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EDA18C37-90DF-4C8F-BF8C-F54483506C21}"
 EndProject
