@@ -9,6 +9,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{1D3AE3A5-25AB-406B-8F9C-C16F8FACB79E}"
 	ProjectSection(SolutionItems) = preProject
 		Tarjetas CRC.png = Tarjetas CRC.png
+		UML.png..png = UML.png..png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EDA18C37-90DF-4C8F-BF8C-F54483506C21}"
